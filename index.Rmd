@@ -20,7 +20,7 @@ librarian::shelf(
 
 # CHANGE THESE VARIABLES!
 api_txt <- "~/Desktop/MEDS/EDS_211/clockify_api-key.txt"
-project_name <- "lab-2"
+project_name <- "aqi-science"
 
 # use API key to authenticate
 CLOCKIFY_API_KEY <- readLines(api_txt)
