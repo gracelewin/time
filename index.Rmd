@@ -50,3 +50,6 @@ d_times %>%
   formatRound(columns=c('duration'), digits=3)
 ```
 
+```r
+# this is a fenced r code block
+```
