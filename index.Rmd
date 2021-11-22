@@ -5,7 +5,7 @@ date: "11/8/2021"
 output: html_document
 ---
 
-## Welcome
+## Welcome. Here is the log of my time working on AQI-science project!
 
 
 ```{r setup, include=FALSE}
@@ -50,7 +50,3 @@ d_times %>%
   formatRound(columns=c('duration'), digits=3)
 ```
 
-```r
-# this is a fenced r code block
-```
-# this is looking like really good code!
